@@ -41,6 +41,6 @@ Total Fare by CIty Type
 ## Summary
 ### Recommendations to the CEO for Addressing Any Disparities Among the City Types:
 - Based on the data, it is recommended that:
-  - More drivers are hired for Urban cities, as they have the highest number of rides per day. The more drivers available, the more rides can be requested by users.
-  - Fares for rural areas are lowered. Although the higher fares may be a result of the distance traveled from a rural area to an urban city, or due to rural communities being more spread out, lowering the fares could help decrease the average fare per ride. Research shows that poverty is higher in rural areas when compared to urban cities. Lowering the fares could address this disparity.
-  - 
+  - Perform more research to see why rides in rural communities are lower.
+  - Although the higher fares may be a result of the distance traveled from a rural area to an urban city, or due to rural communities being more spread out, lowering the fares could help decrease the average fare per ride. Research shows that poverty is higher in rural areas when compared to urban cities. Lowering the fares could help address this disparity.
+  - Increase the number of drivers in rural areas to help decrease the cost of fares.
