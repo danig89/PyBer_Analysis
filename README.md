@@ -18,7 +18,7 @@ Ride-sharing Data by City Type
 <br>
 ![City_Summary](Resources/city_summary.png)
 <br>
-- Rural areas appear to have had the least amount of rides, with 125 rides, while Urban cicties had the most, with 1,625 rides.
+- Rural areas appear to have had the least amount of rides, with 125 rides, while Urban cities had the most, with 1,625 rides.
 - Urban areas had the most number of drivers, with 2,405 drivers. Suburban cities came in second, with 490 drivers, and rural cities with 78 drivers.
 - Average fares were highest in rural cities, at $34.62. Urban city fares averaged at $24.53, and Suburban city fares average $30.97.
 - Rural communities had an average fare per driver of $55.59, Suburban $39.50, and Urban cities $16.57.
@@ -42,4 +42,5 @@ Total Fare by CIty Type
 ### Recommendations to the CEO for Addressing Any Disparities Among the City Types:
 - Based on the data, it is recommended that:
   - More drivers are hired for Urban cities, as they have the highest number of rides per day. The more drivers available, the more rides can be requested by users.
+  - Fares for rural areas are lowered. Although the higher fares may be a result of the distance traveled from a rural area to an urban city, or due to rural communities being more spread out, lowering the fares could help decrease the average fare per ride. Research shows that poverty is higher in rural areas when compared to urban cities. Lowering the fares could address this disparity.
   - 
